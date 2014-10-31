@@ -1,5 +1,6 @@
-branchFun
+#branchFun
 =========
+Some fun with branches.
 ```C++
 //git notes on branches
 ////
